@@ -5,12 +5,12 @@
 
 <h3 align="center">🛠 About Me</h3>
 
-<p align="center">
-  - 20 y.o.<br>
-  - 🌱 Изучаю <b>Scala / Java / Python / Backend</b><br>
-  - 🎓 Студент <b>ИТМО КТ</b><br>
-  - 📫 Связь: <b>@alexx_sam</b>
-</p>
+<ul align="center">
+  <li>20 y.o.</li>
+  <li>🌱 Изучаю <b>Scala / Java / Python / Backend</b></li>
+  <li>🎓 Студент <b>ИТМО КТ</b></li>
+  <li>📫 Связь: <b>@alexx_sam</b></li>
+</ul>
 
 ---
 
