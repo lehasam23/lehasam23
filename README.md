@@ -4,9 +4,9 @@
 ---
 
 ## 🛠 About Me
-
+- 20 y.o.
 - 🌱 Изучаю **Scala / Java / Python / Backend /**
-- 🎓 Студент **ИТМО**
+- 🎓 Студент **ИТМО KT**
 - 📫 Связь: **@alexx_sam**
 
 ---
@@ -26,7 +26,7 @@
 
 ## 💻 Programming Languages
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=scala,java,python,cpp,js" />
 </p>
 
@@ -34,7 +34,7 @@
 
 ## 🔧 Tools & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,mysql,idea" />
 </p>
 
