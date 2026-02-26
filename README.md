@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Привет, я Алексей 👋</h1>
+<h3 align="center">Backend Developer</h3>
 
-<!--
-**lehasam23/lehasam23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Изучаю **Scala / Java / Python / Backend /**
+- 🎓 Студент **ИТМО**
+- 📫 Связь: **@alexx_sam**
+
+---
+
+## 📞 Connect with Me
+
+<p align="left">
+  <a href="https://t.me/alexx_sam" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:samo555av@amil.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=scala,java,python,cpp,js" />
+</p>
+
+---
+
+## 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,mysql,intellij idea" />
+</p>
+
+---
