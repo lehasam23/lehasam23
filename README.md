@@ -4,10 +4,13 @@
 ---
 
 <h3 align="center">🛠 About Me</h3>
-- 20 y.o.
-- 🌱 Изучаю **Scala / Java / Python / Backend**
-- 🎓 Студент **ИТМО KT**
-- 📫 Связь: **@alexx_sam**
+
+<p align="center">
+  20 y.o. <br>
+  🌱 Изучаю <b>Scala / Java / Python / Backend</b> <br>
+  🎓 Студент <b>ИТМО КТ</b> <br>
+  📫 Связь: <b>@alexx_sam</b>
+</p>
 
 ---
 
@@ -40,8 +43,6 @@
 </p>
 
 ---
-
-<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lehasam23&show_icons=true&theme=tokyonight" />
