@@ -5,7 +5,7 @@
 
 <h3 align="center">🛠 About Me</h3>
 
-<p>
+<p align="center">
   - 20 y.o.<br>
   - 🌱 Изучаю <b>Scala / Java / Python / Backend</b><br>
   - 🎓 Студент <b>ИТМО КТ</b><br>
