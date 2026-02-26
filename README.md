@@ -26,7 +26,7 @@
 
 ## 💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=scala,java,python,cpp,js" />
 </p>
 
@@ -34,8 +34,8 @@
 
 ## 🔧 Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,mysql,intellij idea" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,mysql,idea" />
 </p>
 
 ---
