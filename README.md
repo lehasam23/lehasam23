@@ -43,8 +43,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lehasam23&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehasam23&layout=compact&theme=tokyonight" />
-</p>
